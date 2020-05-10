@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactX</string>
+    <string name="txt_valor1">Agregar contacto</string>
+    <string name="txt_valor2">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="txt_correo">Correo</string>
+    <string name="button1">Cancelar</string>
+    <string name="button2">Guardar</string>
+</resources>
